@@ -15,7 +15,7 @@ the app is wireframe only.
 
 ## Live Demo
 
-- Not yet live.
+- [Live Link](https://aakbarkhan.github.io/Leaderboard/dist/)
 
 ## Getting Started
 

@@ -10,7 +10,7 @@
 <script defer src="main.js"></script></head>
 <body>
     <div>
-        <h1>Leaderboard</h1>
+        <h1 class="leaderboard">Leaderboard</h1>
         <div class="score">
         <section class="score-board">
             <div class="title-wrapper">
@@ -22,9 +22,11 @@
         </section>
         <section class="add-scores">
             <h2>Add your scores</h2>
-            <input id="name-input" type="text" placeholder="your name">
-            <input id="score-input" type="text" placeholder="Your score">
+            <div class="input-wrapper" >
+            <input id="name-input" type="text" placeholder="your name" required >
+            <input id="score-input" type="number" placeholder="Your score" required >
             <button type="submit" class="submit"> Submit</button>
+        </div>
         </section>
     </div>
     </div>
