@@ -31,8 +31,9 @@ the app is wireframe only.
 
 ##  Author 1 - aku
 
-- GitHub: aakbarkhan.
-- [aakbarkhan](https://github.com/aakbarkhan)
+👤 **Aku**
+
+- GitHub: [@aakbarkhan](https://github.com/aakbarkhan)
 
 
 ## Contributing
