@@ -15,7 +15,7 @@ the app is wireframe only.
 
 ## Live Demo
 
-- Not yet live.
+- [Live Link](https://aakbarkhan.github.io/Leaderboard/dist/)
 
 ## Getting Started
 
@@ -31,7 +31,9 @@ the app is wireframe only.
 
 ##  Author 1 - aku
 
-- GitHub: aakbarkhan.
+👤 **Aku**
+
+- GitHub: [@aakbarkhan](https://github.com/aakbarkhan)
 
 
 ## Contributing

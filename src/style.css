@@ -3,8 +3,15 @@ body {
   margin: 0 5%;
 }
 
+.leaderboard {
+  text-align: center;
+  color: rgb(160, 113, 136);
+  font-family: 'Times New Roman', Times, serif;
+}
+
 h2 {
   display: inline;
+  color: rgb(58, 59, 173);
 }
 
 .score {
@@ -18,13 +25,17 @@ h2 {
 }
 
 .name-scores {
-  border: 1px solid black;
+  border: 1px solid rgb(168, 162, 162);
   margin-top: 5%;
+  box-shadow: rgba(0, 0, 0, 0.3) 0 19px 38px, rgba(0, 0, 0, 0.22) 0 15px 12px;
+  overflow: scroll;
+  height: 400px;
 }
 
 .submit {
   position: relative;
   left: 35%;
+  cursor: pointer;
 }
 
 .title-wrapper {
@@ -36,16 +47,19 @@ h2 {
 .btn {
   font-size: 18px;
   height: 30px;
+  cursor: pointer;
+  color: rgb(80, 21, 21);
 }
 
 p {
   padding: 2px 6px;
   font-size: 20px;
   margin: 0;
+  cursor: pointer;
 }
 
 p:nth-child(even) {
-  background-color: dimgray;
+  background-color: rgb(167, 165, 165);
 }
 
 .add-scores {
@@ -54,10 +68,16 @@ p:nth-child(even) {
   width: 30%;
 }
 
+.input-wrapper {
+  box-shadow: rgba(0, 0, 0, 0.3) 0 19px 38px, rgba(0, 0, 0, 0.22) 0 15px 12px;
+  padding-bottom: 25px;
+  background-color: rgb(167, 165, 165);
+}
+
 #name-input,
 #score-input {
   display: block;
-  padding: 2% 0;
+  padding: 2% 3%;
   width: 92%;
 }
 
